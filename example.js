@@ -1,7 +1,7 @@
 /*
   Consider run this command line before start
 
-  npm instal expo-constants expo-notifications expo-permissions --save
+  npm install expo-constants expo-notifications expo-permissions --save
 */
 
 import Constants from 'expo-constants';
